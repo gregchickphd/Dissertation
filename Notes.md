@@ -31,3 +31,17 @@ Variables were log transformed
 Practical design experiments
   -Find out if/when non-autonomous schools implemented COA stipends
   -Instead of COA as outcome, grades? Average amount borrowed? Cohort default? 
+
+How I found data
+  1. Select Institutions - By Variables, "Member of National Collegiate Athletic Association (NCAA)" - Yes, Continue (to 'Step 2 - Select Variables')
+  2. Variables
+    a. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> FIPS state code
+    b. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Office of Postsecondary (OPE) ID Number
+    c. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Level of institution
+    d. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Control of institution
+    e. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) ->  On campus, other expenses 20xx-20xx
+    f. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) ->  Off campus (not with family), other expenses 20xx-20xx
+    g. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) -> Off campus (with family), other expenses 20xx-20xx
+    h. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment, 25-64
+    i. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment over
+    j. Fall Enrollment -> Age category, gender, attendance status, and level of student: Fall 2011 -> Enrollment by age -> Age Category -> click on Age 25 and over total -> Save
