@@ -43,5 +43,8 @@ How I found data
     f. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) ->  Off campus (not with family), other expenses 20xx-20xx
     g. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) -> Off campus (with family), other expenses 20xx-20xx
     h. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment, 25-64
-    i. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment over
-    j. Fall Enrollment -> Age category, gender, attendance status, and level of student: Fall 2011 -> Enrollment by age -> Age Category -> click on Age 25 and over total -> Save
+    i. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment over 65
+    k. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: Full-time, first-time, degree/certificate-seeking undergraduates -> Percent of full-time first-time undergraduates  awarded Pell grants
+    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> Percent of undergraduate students awarded Pell grants
+    m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010-2011 full year cohort -> Percentage of students in full-year cohort who are paying in-state tuition rates
+    
