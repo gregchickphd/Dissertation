@@ -4,6 +4,7 @@ Division 1
   -Football Bowl Subdivision (FBS) - 135 schools
   -Football Championship Subdivision (FCS) - 126 schools
   -Division I-non football
+  
 Division 2
 
 Variables for covariate balance:
@@ -45,6 +46,8 @@ How I found data
     h. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment, 25-64
     i. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment over 65
     k. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: Full-time, first-time, degree/certificate-seeking undergraduates -> Percent of full-time first-time undergraduates  awarded Pell grants
-    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> Percent of undergraduate students awarded Pell grants
+    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> ######Percent of undergraduate students awarded Pell grants
+    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> #######Average amount of federl student loans awarded to undergraduate students
+    m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010 Fall cohort -> Percentage of students in fall cohort who are paying in-state tuition rates
     m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010-2011 full year cohort -> Percentage of students in full-year cohort who are paying in-state tuition rates
     
