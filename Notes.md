@@ -51,3 +51,4 @@ How I found data
     m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010 Fall cohort -> Percentage of students in fall cohort who are paying in-state tuition rates
     m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010-2011 full year cohort -> Percentage of students in full-year cohort who are paying in-state tuition rates
     
+Why isn't the data for fair market rents working on this website? https://www.huduser.gov/portal/datasets/fmr.html#2018
