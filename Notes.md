@@ -60,6 +60,3 @@ Athletics spending at http://cafidatabase.knightcommission.org/
 HUD & USPS Crosswalk Zipcode<-->Census area at https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 Further NCAA data - https://ope.ed.gov/athletics/#/
-
-xx
-XXXX
