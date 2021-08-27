@@ -1,3 +1,17 @@
+IPEDS tracking
+Division I
+FBS
+Power 5 conferences & Non-power 5 conferences
+Guest_665633954434
+
+FCS
+Guest_14637735317
+
+Division II schools
+Guest_1337734735
+
+
+Notes from the article
 Policy change happened in Jan 2015 with 65 universities, 5 power conferences (Big 12, SEC, PAC 12, ACC, Big 10)
 
 Division 1 
@@ -60,3 +74,5 @@ Athletics spending at http://cafidatabase.knightcommission.org/
 HUD & USPS Crosswalk Zipcode<-->Census area at https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 Further NCAA data - https://ope.ed.gov/athletics/#/
+
+
