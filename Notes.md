@@ -1,18 +1,11 @@
 IPEDS tracking
 Division I
-FBS
-Power 5 conferences & Non-power 5 conferences
-Guest_665633954434
+FBS (Power 5 conferences & Non-power 5 conferences) - Guest_665633954434
 
-FCS
-Guest_14637735317
+FCS - Guest_14637735317
 
-Division II schools
-Guest_1337734735
+Division II schools - Guest_1337734735
 
-
-Notes from the article
-Policy change happened in Jan 2015 with 65 universities, 5 power conferences (Big 12, SEC, PAC 12, ACC, Big 10)
 
 Division 1 
   -Football Bowl Subdivision (FBS) - 135 schools
@@ -28,6 +21,7 @@ Variables for covariate balance:
   -Median rent for a 1-bedroom apartment within the zipcode of university - US Department of House and Urban Development's Office of Policy Development and Research
   -% in-state
   
+Willis article technique
 Used inverse propensity weighting
   -Logistic regression to calculate conditional probability that institution received treatment (COA change) given 2011-2012 values
   -Dropped universities with a propensity score outside the common support criteria
@@ -42,10 +36,6 @@ Data from IPEDS:
 Used Prais-Winsten technique to adjust standard errors for autocorrelation and panel heteroskedasticity
 Inflation adjusted all $ figures to latest year
 Variables were log transformed
-
-Practical design experiments
-  -Find out if/when non-autonomous schools implemented COA stipends
-  -Instead of COA as outcome, grades? Average amount borrowed? Cohort default? 
 
 How I found data
   1. Select Institutions - By Variables, "Member of National Collegiate Athletic Association (NCAA)" - Yes, Continue (to 'Step 2 - Select Variables')
