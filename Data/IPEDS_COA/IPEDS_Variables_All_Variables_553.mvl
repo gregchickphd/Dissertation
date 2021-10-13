@@ -1,0 +1,553 @@
+IC2020|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||20.10856|.|Disc|DMN|N||121|||||
+IC2019|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||19.10856|.|Disc|DMN|N||121|||||
+IC2018|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||18.10856|.|Disc|DMN|N||121|||||
+IC2017|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||17.10856|.|Disc|DMN|N||121|||||
+IC2016|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||16.10856|.|Disc|DMN|N||121|||||
+IC2015|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||15.10856|.|Disc|DMN|N||121|||||
+IC2014|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||14.10856|.|Disc|DMN|N||121|||||
+IC2013|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||13.10856|.|Disc|DMN|N||121|||||
+IC2012_RV|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||12.10856|.|Disc|DMN|N||121|||||
+IC2011_RV|CONFNO1|Athletic and conference associations|NCAA/NAIA conference number football|||||||||||||11.10856|.|Disc|DMN|N||121|||||
+HD2020|FIPS|Institution classifications|FIPS state code|||||||||||||20.10026|.|Disc|DMN|N||112|||||
+HD2020|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||20.10076|.|Disc|DMN|N||112|||||
+HD2020|ICLEVEL|Institution classifications|Level of institution|||||||||||||20.10091|.|Disc|DMN|N||112|||||
+HD2020|CONTROL|Institution classifications|Control of institution|||||||||||||20.10096|.|Disc|DMN|N||112|||||
+IC2020_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2020-21|||||||||||||20.11951|Xchg1ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2020-21|||||||||||||20.11966|Xchg2ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2020-21|||||||||||||20.11981|Xchg3ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2020-21|||||||||||||20.11996|Xchg4ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2020-21|||||||||||||20.12011|Xchg5ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2020-21|||||||||||||20.12026|Xchg6ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2020-21|||||||||||||20.12041|Xchg7ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2020-21|||||||||||||20.12056|Xchg8ay3.IC2020_AY|Cont|TN|N||609|||||
+IC2020_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2020-21|||||||||||||20.12071|Xchg9ay3.IC2020_AY|Cont|TN|N||609|||||
+DRVIC2020|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2020-21|||||||||||||20.11571|.|Cont|TN|N||609|||||
+DRVIC2020|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2020-21|||||||||||||20.11576|.|Cont|TN|N||609|||||
+DRVIC2020|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2020-21|||||||||||||20.11581|.|Cont|TN|N||609|||||
+DRVIC2020|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2020-21|||||||||||||20.11586|.|Cont|TN|N||609|||||
+DRVIC2020|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2020-21|||||||||||||20.11591|.|Cont|TN|N||609|||||
+DRVIC2020|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2020-21|||||||||||||20.11596|.|Cont|TN|N||609|||||
+DRVIC2020|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2020-21|||||||||||||20.11601|.|Cont|TN|N||609|||||
+DRVIC2020|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2020-21|||||||||||||20.11606|.|Cont|TN|N||609|||||
+DRVIC2020|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2020-21|||||||||||||20.11611|.|Cont|TN|N||609|||||
+EF2020B|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||20.20441|XEFAGE09.EF2020B|Cont|TN|N||140|20391|20396|||
+EF2020B|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||20.20421|XEFAGE05.EF2020B|Cont|TN|N||140|20391|20396|||
+EF2020B|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||20.20426|XEFAGE06.EF2020B|Cont|TN|N||140|20391|20396|||
+HD2019|FIPS|Institution classifications|FIPS state code|||||||||||||19.10026|.|Disc|DMN|N||112|||||
+HD2019|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||19.10076|.|Disc|DMN|N||112|||||
+HD2019|ICLEVEL|Institution classifications|Level of institution|||||||||||||19.10091|.|Disc|DMN|N||112|||||
+HD2019|CONTROL|Institution classifications|Control of institution|||||||||||||19.10096|.|Disc|DMN|N||112|||||
+SFA1819|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||19.70136|XSCFA11N.SFA1819|Cont|TN|N||510|||||
+SFA1819|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||19.70141|XSCFA11P.SFA1819|Cont|TN|N||510|||||
+SFA1819|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||19.70146|XSCFA12N.SFA1819|Cont|TN|N||510|||||
+SFA1819|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||19.70151|XSCFA12P.SFA1819|Cont|TN|N||510|||||
+SFA1819|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||19.70326|XPGRNT_N.SFA1819|Cont|TN|N||510|||||
+SFA1819|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||19.70331|XPGRNT_P.SFA1819|Cont|TN|N||510|||||
+SFA1819|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||19.70461|XPGRNT_T.SFA1819|Cont|TN|N||510|||||
+SFA1819|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||19.70336|XPGRNT_A.SFA1819|Cont|TN|N||510|||||
+SFA1819|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||19.70486|XFLOAN_T.SFA1819|Cont|TN|N||510|||||
+SFA1819|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||19.70491|XOLOAN_T.SFA1819|Cont|TN|N||510|||||
+SFA1819|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||19.70416|XUPGRNTP.SFA1819|Cont|TN|N||510|||||
+SFA1819|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||19.70421|XUPGRNTT.SFA1819|Cont|TN|N||510|||||
+SFA1819|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||19.70306|XUPGRNTN.SFA1819|Cont|TN|N||510|||||
+SFA1819|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||19.70426|XUPGRNTA.SFA1819|Cont|TN|N||510|||||
+SFA1819|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||19.70431|XUFLOANN.SFA1819|Cont|TN|N||510|||||
+SFA1819|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||19.70436|XUFLOANP.SFA1819|Cont|TN|N||510|||||
+SFA1819|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||19.70441|XUFLOANT.SFA1819|Cont|TN|N||510|||||
+SFA1819|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||19.70446|XUFLOANA.SFA1819|Cont|TN|N||510|||||
+IC2019_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2019-20|||||||||||||19.11951|Xchg1ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2019-20|||||||||||||19.11966|Xchg2ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2019-20|||||||||||||19.11981|Xchg3ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2019-20|||||||||||||19.11996|Xchg4ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2019-20|||||||||||||19.12011|Xchg5ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2019-20|||||||||||||19.12026|Xchg6ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2019-20|||||||||||||19.12041|Xchg7ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2019-20|||||||||||||19.12056|Xchg8ay3.IC2019_AY|Cont|TN|N||609|||||
+IC2019_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2019-20|||||||||||||19.12071|Xchg9ay3.IC2019_AY|Cont|TN|N||609|||||
+DRVIC2019|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2019-20|||||||||||||19.11571|.|Cont|TN|N||609|||||
+DRVIC2019|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2019-20|||||||||||||19.11576|.|Cont|TN|N||609|||||
+DRVIC2019|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2019-20|||||||||||||19.11581|.|Cont|TN|N||609|||||
+DRVIC2019|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2019-20|||||||||||||19.11586|.|Cont|TN|N||609|||||
+DRVIC2019|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2019-20|||||||||||||19.11591|.|Cont|TN|N||609|||||
+DRVIC2019|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2019-20|||||||||||||19.11596|.|Cont|TN|N||609|||||
+DRVIC2019|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2019-20|||||||||||||19.11601|.|Cont|TN|N||609|||||
+DRVIC2019|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2019-20|||||||||||||19.11606|.|Cont|TN|N||609|||||
+DRVIC2019|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2019-20|||||||||||||19.11611|.|Cont|TN|N||609|||||
+EF2019B|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||19.20441|XEFAGE09.EF2019B|Cont|TN|N||140|20391|20396|||
+EF2019B|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||19.20421|XEFAGE05.EF2019B|Cont|TN|N||140|20391|20396|||
+EF2019B|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||19.20426|XEFAGE06.EF2019B|Cont|TN|N||140|20391|20396|||
+HD2018|FIPS|Institution classifications|FIPS state code|||||||||||||18.10026|.|Disc|DMN|N||112|||||
+HD2018|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||18.10076|.|Disc|DMN|N||112|||||
+HD2018|ICLEVEL|Institution classifications|Level of institution|||||||||||||18.10091|.|Disc|DMN|N||112|||||
+HD2018|CONTROL|Institution classifications|Control of institution|||||||||||||18.10096|.|Disc|DMN|N||112|||||
+SFA1718_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||18.70136|XSCFA11N.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||18.70141|XSCFA11P.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||18.70146|XSCFA12N.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||18.70151|XSCFA12P.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||18.70326|XPGRNT_N.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||18.70331|XPGRNT_P.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||18.70461|XPGRNT_T.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||18.70336|XPGRNT_A.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||18.70486|XFLOAN_T.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||18.70491|XOLOAN_T.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||18.70416|XUPGRNTP.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||18.70421|XUPGRNTT.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||18.70306|XUPGRNTN.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||18.70426|XUPGRNTA.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||18.70431|XUFLOANN.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||18.70436|XUFLOANP.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||18.70441|XUFLOANT.SFA1718_RV|Cont|TN|N||510|||||
+SFA1718_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||18.70446|XUFLOANA.SFA1718_RV|Cont|TN|N||510|||||
+IC2018_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2018-19|||||||||||||18.11951|Xchg1ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2018-19|||||||||||||18.11966|Xchg2ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2018-19|||||||||||||18.11981|Xchg3ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2018-19|||||||||||||18.11996|Xchg4ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2018-19|||||||||||||18.12011|Xchg5ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2018-19|||||||||||||18.12026|Xchg6ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2018-19|||||||||||||18.12041|Xchg7ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2018-19|||||||||||||18.12056|Xchg8ay3.IC2018_AY|Cont|TN|N||609|||||
+IC2018_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2018-19|||||||||||||18.12071|Xchg9ay3.IC2018_AY|Cont|TN|N||609|||||
+DRVIC2018|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2018-19|||||||||||||18.11571|.|Cont|TN|N||609|||||
+DRVIC2018|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2018-19|||||||||||||18.11576|.|Cont|TN|N||609|||||
+DRVIC2018|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2018-19|||||||||||||18.11581|.|Cont|TN|N||609|||||
+DRVIC2018|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2018-19|||||||||||||18.11586|.|Cont|TN|N||609|||||
+DRVIC2018|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2018-19|||||||||||||18.11591|.|Cont|TN|N||609|||||
+DRVIC2018|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2018-19|||||||||||||18.11596|.|Cont|TN|N||609|||||
+DRVIC2018|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2018-19|||||||||||||18.11601|.|Cont|TN|N||609|||||
+DRVIC2018|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2018-19|||||||||||||18.11606|.|Cont|TN|N||609|||||
+DRVIC2018|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2018-19|||||||||||||18.11611|.|Cont|TN|N||609|||||
+EF2018B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||18.20441|XEFAGE09.EF2018B_RV|Cont|TN|N||140|20391|20396|||
+EF2018B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||18.20421|XEFAGE05.EF2018B_RV|Cont|TN|N||140|20391|20396|||
+EF2018B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||18.20426|XEFAGE06.EF2018B_RV|Cont|TN|N||140|20391|20396|||
+HD2017|FIPS|Institution classifications|FIPS state code|||||||||||||17.10026|.|Disc|DMN|N||112|||||
+HD2017|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||17.10076|.|Disc|DMN|N||112|||||
+HD2017|ICLEVEL|Institution classifications|Level of institution|||||||||||||17.10091|.|Disc|DMN|N||112|||||
+HD2017|CONTROL|Institution classifications|Control of institution|||||||||||||17.10096|.|Disc|DMN|N||112|||||
+SFA1617_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||17.70136|XSCFA11N.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||17.70141|XSCFA11P.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||17.70146|XSCFA12N.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||17.70151|XSCFA12P.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||17.70326|XPGRNT_N.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||17.70331|XPGRNT_P.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||17.70461|XPGRNT_T.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||17.70336|XPGRNT_A.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||17.70486|XFLOAN_T.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||17.70491|XOLOAN_T.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||17.70416|XUPGRNTP.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||17.70421|XUPGRNTT.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||17.70306|XUPGRNTN.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||17.70426|XUPGRNTA.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||17.70431|XUFLOANN.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||17.70436|XUFLOANP.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||17.70441|XUFLOANT.SFA1617_RV|Cont|TN|N||510|||||
+SFA1617_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||17.70446|XUFLOANA.SFA1617_RV|Cont|TN|N||510|||||
+IC2017_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2017-18|||||||||||||17.11951|Xchg1ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2017-18|||||||||||||17.11966|Xchg2ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2017-18|||||||||||||17.11981|Xchg3ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2017-18|||||||||||||17.11996|Xchg4ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2017-18|||||||||||||17.12011|Xchg5ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2017-18|||||||||||||17.12026|Xchg6ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2017-18|||||||||||||17.12041|Xchg7ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2017-18|||||||||||||17.12056|Xchg8ay3.IC2017_AY|Cont|TN|N||609|||||
+IC2017_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2017-18|||||||||||||17.12071|Xchg9ay3.IC2017_AY|Cont|TN|N||609|||||
+DRVIC2017|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2017-18|||||||||||||17.11571|.|Cont|TN|N||609|||||
+DRVIC2017|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2017-18|||||||||||||17.11576|.|Cont|TN|N||609|||||
+DRVIC2017|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2017-18|||||||||||||17.11581|.|Cont|TN|N||609|||||
+DRVIC2017|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2017-18|||||||||||||17.11586|.|Cont|TN|N||609|||||
+DRVIC2017|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2017-18|||||||||||||17.11591|.|Cont|TN|N||609|||||
+DRVIC2017|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2017-18|||||||||||||17.11596|.|Cont|TN|N||609|||||
+DRVIC2017|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2017-18|||||||||||||17.11601|.|Cont|TN|N||609|||||
+DRVIC2017|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2017-18|||||||||||||17.11606|.|Cont|TN|N||609|||||
+DRVIC2017|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2017-18|||||||||||||17.11611|.|Cont|TN|N||609|||||
+HD2016|FIPS|Institution classifications|FIPS state code|||||||||||||16.10026|.|Disc|DMN|N||112|||||
+HD2016|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||16.10076|.|Disc|DMN|N||112|||||
+HD2016|ICLEVEL|Institution classifications|Level of institution|||||||||||||16.10091|.|Disc|DMN|N||112|||||
+HD2016|CONTROL|Institution classifications|Control of institution|||||||||||||16.10096|.|Disc|DMN|N||112|||||
+SFA1516_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||16.70136|XSCFA11N.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||16.70141|XSCFA11P.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||16.70146|XSCFA12N.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||16.70151|XSCFA12P.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||16.70326|XPGRNT_N.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||16.70331|XPGRNT_P.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||16.70461|XPGRNT_T.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||16.70336|XPGRNT_A.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||16.70486|XFLOAN_T.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||16.70491|XOLOAN_T.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||16.70416|XUPGRNTP.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||16.70421|XUPGRNTT.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||16.70306|XUPGRNTN.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||16.70426|XUPGRNTA.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||16.70431|XUFLOANN.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||16.70436|XUFLOANP.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||16.70441|XUFLOANT.SFA1516_RV|Cont|TN|N||510|||||
+SFA1516_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||16.70446|XUFLOANA.SFA1516_RV|Cont|TN|N||510|||||
+IC2016_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2016-17|||||||||||||16.11951|Xchg1ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2016-17|||||||||||||16.11966|Xchg2ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2016-17|||||||||||||16.11981|Xchg3ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2016-17|||||||||||||16.11996|Xchg4ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2016-17|||||||||||||16.12011|Xchg5ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2016-17|||||||||||||16.12026|Xchg6ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2016-17|||||||||||||16.12041|Xchg7ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2016-17|||||||||||||16.12056|Xchg8ay3.IC2016_AY|Cont|TN|N||609|||||
+IC2016_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2016-17|||||||||||||16.12071|Xchg9ay3.IC2016_AY|Cont|TN|N||609|||||
+DRVIC2016|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2016-17|||||||||||||16.11571|.|Cont|TN|N||609|||||
+DRVIC2016|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2016-17|||||||||||||16.11576|.|Cont|TN|N||609|||||
+DRVIC2016|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2016-17|||||||||||||16.11581|.|Cont|TN|N||609|||||
+DRVIC2016|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2016-17|||||||||||||16.11586|.|Cont|TN|N||609|||||
+DRVIC2016|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2016-17|||||||||||||16.11591|.|Cont|TN|N||609|||||
+DRVIC2016|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2016-17|||||||||||||16.11596|.|Cont|TN|N||609|||||
+DRVIC2016|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2016-17|||||||||||||16.11601|.|Cont|TN|N||609|||||
+DRVIC2016|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2016-17|||||||||||||16.11606|.|Cont|TN|N||609|||||
+DRVIC2016|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2016-17|||||||||||||16.11611|.|Cont|TN|N||609|||||
+EF2016B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||16.20441|XEFAGE09.EF2016B_RV|Cont|TN|N||140|20391|20396|||
+EF2016B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||16.20421|XEFAGE05.EF2016B_RV|Cont|TN|N||140|20391|20396|||
+EF2016B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||16.20426|XEFAGE06.EF2016B_RV|Cont|TN|N||140|20391|20396|||
+HD2015|FIPS|Institution classifications|FIPS state code|||||||||||||15.10026|.|Disc|DMN|N||112|||||
+HD2015|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||15.10076|.|Disc|DMN|N||112|||||
+HD2015|ICLEVEL|Institution classifications|Level of institution|||||||||||||15.10091|.|Disc|DMN|N||112|||||
+HD2015|CONTROL|Institution classifications|Control of institution|||||||||||||15.10096|.|Disc|DMN|N||112|||||
+SFA1415_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||15.70136|XSCFA11N.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||15.70141|XSCFA11P.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||15.70146|XSCFA12N.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||15.70151|XSCFA12P.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||15.70326|XPGRNT_N.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||15.70331|XPGRNT_P.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||15.70461|XPGRNT_T.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||15.70336|XPGRNT_A.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||15.70486|XFLOAN_T.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||15.70491|XOLOAN_T.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||15.70416|XUPGRNTP.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||15.70421|XUPGRNTT.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||15.70306|XUPGRNTN.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||15.70426|XUPGRNTA.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||15.70431|XUFLOANN.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||15.70436|XUFLOANP.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||15.70441|XUFLOANT.SFA1415_RV|Cont|TN|N||510|||||
+SFA1415_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||15.70446|XUFLOANA.SFA1415_RV|Cont|TN|N||510|||||
+IC2015_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2015-16|||||||||||||15.11951|Xchg1ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2015-16|||||||||||||15.11966|Xchg2ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2015-16|||||||||||||15.11981|Xchg3ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2015-16|||||||||||||15.11996|Xchg4ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2015-16|||||||||||||15.12011|Xchg5ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2015-16|||||||||||||15.12026|Xchg6ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2015-16|||||||||||||15.12041|Xchg7ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2015-16|||||||||||||15.12056|Xchg8ay3.IC2015_AY|Cont|TN|N||609|||||
+IC2015_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2015-16|||||||||||||15.12071|Xchg9ay3.IC2015_AY|Cont|TN|N||609|||||
+DRVIC2015|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2015-16|||||||||||||15.11571|.|Cont|TN|N||609|||||
+DRVIC2015|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2015-16|||||||||||||15.11576|.|Cont|TN|N||609|||||
+DRVIC2015|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2015-16|||||||||||||15.11581|.|Cont|TN|N||609|||||
+DRVIC2015|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2015-16|||||||||||||15.11586|.|Cont|TN|N||609|||||
+DRVIC2015|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2015-16|||||||||||||15.11591|.|Cont|TN|N||609|||||
+DRVIC2015|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2015-16|||||||||||||15.11596|.|Cont|TN|N||609|||||
+DRVIC2015|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2015-16|||||||||||||15.11601|.|Cont|TN|N||609|||||
+DRVIC2015|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2015-16|||||||||||||15.11606|.|Cont|TN|N||609|||||
+DRVIC2015|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2015-16|||||||||||||15.11611|.|Cont|TN|N||609|||||
+EF2015B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||15.20441|XEFAGE09.EF2015B_RV|Cont|TN|N||140|20391|20396|||
+EF2015B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||15.20421|XEFAGE05.EF2015B_RV|Cont|TN|N||140|20391|20396|||
+EF2015B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||15.20426|XEFAGE06.EF2015B_RV|Cont|TN|N||140|20391|20396|||
+HD2014|FIPS|Institution classifications|FIPS state code|||||||||||||14.10026|.|Disc|DMN|N||112|||||
+HD2014|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||14.10076|.|Disc|DMN|N||112|||||
+HD2014|ICLEVEL|Institution classifications|Level of institution|||||||||||||14.10091|.|Disc|DMN|N||112|||||
+HD2014|CONTROL|Institution classifications|Control of institution|||||||||||||14.10096|.|Disc|DMN|N||112|||||
+SFA1314_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||14.70136|XSCFA11N.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||14.70141|XSCFA11P.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||14.70146|XSCFA12N.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||14.70151|XSCFA12P.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||14.70326|XPGRNT_N.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||14.70331|XPGRNT_P.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||14.70461|XPGRNT_T.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||14.70336|XPGRNT_A.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||14.70486|XFLOAN_T.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||14.70491|XOLOAN_T.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||14.70416|XUPGRNTP.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||14.70421|XUPGRNTT.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||14.70306|XUPGRNTN.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||14.70426|XUPGRNTA.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||14.70431|XUFLOANN.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||14.70436|XUFLOANP.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||14.70441|XUFLOANT.SFA1314_RV|Cont|TN|N||510|||||
+SFA1314_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||14.70446|XUFLOANA.SFA1314_RV|Cont|TN|N||510|||||
+IC2014_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2014-15|||||||||||||14.11951|Xchg1ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2014-15|||||||||||||14.11966|Xchg2ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2014-15|||||||||||||14.11981|Xchg3ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2014-15|||||||||||||14.11996|Xchg4ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2014-15|||||||||||||14.12011|Xchg5ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2014-15|||||||||||||14.12026|Xchg6ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2014-15|||||||||||||14.12041|Xchg7ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2014-15|||||||||||||14.12056|Xchg8ay3.IC2014_AY|Cont|TN|N||609|||||
+IC2014_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2014-15|||||||||||||14.12071|Xchg9ay3.IC2014_AY|Cont|TN|N||609|||||
+DRVIC2014|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2014-15|||||||||||||14.11571|.|Cont|TN|N||609|||||
+DRVIC2014|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2014-15|||||||||||||14.11576|.|Cont|TN|N||609|||||
+DRVIC2014|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2014-15|||||||||||||14.11581|.|Cont|TN|N||609|||||
+DRVIC2014|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2014-15|||||||||||||14.11586|.|Cont|TN|N||609|||||
+DRVIC2014|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2014-15|||||||||||||14.11591|.|Cont|TN|N||609|||||
+DRVIC2014|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2014-15|||||||||||||14.11596|.|Cont|TN|N||609|||||
+DRVIC2014|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2014-15|||||||||||||14.11601|.|Cont|TN|N||609|||||
+DRVIC2014|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2014-15|||||||||||||14.11606|.|Cont|TN|N||609|||||
+DRVIC2014|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2014-15|||||||||||||14.11611|.|Cont|TN|N||609|||||
+EF2014B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||14.20441|XEFAGE09.EF2014B_RV|Cont|TN|N||140|20391|20396|||
+EF2014B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||14.20421|XEFAGE05.EF2014B_RV|Cont|TN|N||140|20391|20396|||
+EF2014B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||14.20426|XEFAGE06.EF2014B_RV|Cont|TN|N||140|20391|20396|||
+HD2013|FIPS|Institution classifications|FIPS state code|||||||||||||13.10026|.|Disc|DMN|N||112|||||
+HD2013|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||13.10076|.|Disc|DMN|N||112|||||
+HD2013|ICLEVEL|Institution classifications|Level of institution|||||||||||||13.10091|.|Disc|DMN|N||112|||||
+HD2013|CONTROL|Institution classifications|Control of institution|||||||||||||13.10096|.|Disc|DMN|N||112|||||
+SFA1213_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||13.70136|XSCFA11N.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||13.70141|XSCFA11P.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||13.70146|XSCFA12N.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||13.70151|XSCFA12P.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||13.70326|XPGRNT_N.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||13.70331|XPGRNT_P.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||13.70461|XPGRNT_T.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||13.70336|XPGRNT_A.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||13.70486|XFLOAN_T.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||13.70491|XOLOAN_T.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||13.70416|XUPGRNTP.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||13.70421|XUPGRNTT.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||13.70306|XUPGRNTN.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||13.70426|XUPGRNTA.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||13.70431|XUFLOANN.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||13.70436|XUFLOANP.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||13.70441|XUFLOANT.SFA1213_RV|Cont|TN|N||510|||||
+SFA1213_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||13.70446|XUFLOANA.SFA1213_RV|Cont|TN|N||510|||||
+IC2013_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2013-14|||||||||||||13.11951|Xchg1ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2013-14|||||||||||||13.11966|Xchg2ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2013-14|||||||||||||13.11981|Xchg3ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2013-14|||||||||||||13.11996|Xchg4ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2013-14|||||||||||||13.12011|Xchg5ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2013-14|||||||||||||13.12026|Xchg6ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2013-14|||||||||||||13.12041|Xchg7ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2013-14|||||||||||||13.12056|Xchg8ay3.IC2013_AY|Cont|TN|N||609|||||
+IC2013_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2013-14|||||||||||||13.12071|Xchg9ay3.IC2013_AY|Cont|TN|N||609|||||
+DRVIC2013_RV|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2013-14|||||||||||||13.11571|.|Cont|TN|N||609|||||
+DRVIC2013_RV|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2013-14|||||||||||||13.11576|.|Cont|TN|N||609|||||
+DRVIC2013_RV|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2013-14|||||||||||||13.11581|.|Cont|TN|N||609|||||
+DRVIC2013_RV|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2013-14|||||||||||||13.11586|.|Cont|TN|N||609|||||
+DRVIC2013_RV|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2013-14|||||||||||||13.11591|.|Cont|TN|N||609|||||
+DRVIC2013_RV|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2013-14|||||||||||||13.11596|.|Cont|TN|N||609|||||
+DRVIC2013_RV|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2013-14|||||||||||||13.11601|.|Cont|TN|N||609|||||
+DRVIC2013_RV|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2013-14|||||||||||||13.11606|.|Cont|TN|N||609|||||
+DRVIC2013_RV|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2013-14|||||||||||||13.11611|.|Cont|TN|N||609|||||
+EF2013B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||13.20441|XEFAGE09.EF2013B_RV|Cont|TN|N||140|20391|20396|||
+EF2013B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||13.20421|XEFAGE05.EF2013B_RV|Cont|TN|N||140|20391|20396|||
+EF2013B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||13.20426|XEFAGE06.EF2013B_RV|Cont|TN|N||140|20391|20396|||
+HD2012|FIPS|Institution classifications|FIPS state code|||||||||||||12.10026|.|Disc|DMN|N||112|||||
+HD2012|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||12.10076|.|Disc|DMN|N||112|||||
+HD2012|ICLEVEL|Institution classifications|Level of institution|||||||||||||12.10091|.|Disc|DMN|N||112|||||
+HD2012|CONTROL|Institution classifications|Control of institution|||||||||||||12.10096|.|Disc|DMN|N||112|||||
+SFA1112_RV|SCFA11N|Student financial aid|Number of students in fall cohort who are paying in-district tuition rates|||||||||||||12.70136|XSCFA11N.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|SCFA11P|Student financial aid|Percentage of students in fall cohort who are paying in-district tuition rates|||||||||||||12.70141|XSCFA11P.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|SCFA12N|Student financial aid|Number of students in fall cohort who are paying in-state tuititon rates|||||||||||||12.70146|XSCFA12N.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|SCFA12P|Student financial aid|Percentage of students in fall cohort who paying in-state tuition rates|||||||||||||12.70151|XSCFA12P.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|PGRNT_N|Student financial aid|Number of full-time first-time undergraduates awarded Pell grants|||||||||||||12.70326|XPGRNT_N.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|PGRNT_P|Student financial aid|Percent of full-time first-time undergraduates awarded Pell grants|||||||||||||12.70331|XPGRNT_P.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|PGRNT_T|Student financial aid|Total amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||12.70461|XPGRNT_T.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|PGRNT_A|Student financial aid|Average amount of Pell grant aid awarded to full-time first-time undergraduates|||||||||||||12.70336|XPGRNT_A.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|FLOAN_T|Student financial aid|Total amount of federal student loans awarded to full-time first-time undergraduates|||||||||||||12.70486|XFLOAN_T.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|OLOAN_T|Student financial aid|Total amount of other student loans awarded to full-time first-time undergraduates|||||||||||||12.70491|XOLOAN_T.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UPGRNTP|Student financial aid|Percent of undergraduate students awarded Pell grants|||||||||||||12.70416|XUPGRNTP.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UPGRNTT|Student financial aid|Total amount of Pell grant aid awarded to undergraduate students|||||||||||||12.70421|XUPGRNTT.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UPGRNTN|Student financial aid|Number of undergraduate students awarded Pell grants|||||||||||||12.70306|XUPGRNTN.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UPGRNTA|Student financial aid|Average amount Pell grant aid awarded to undergraduate students|||||||||||||12.70426|XUPGRNTA.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UFLOANN|Student financial aid|Number of undergraduate students awarded federal student loans|||||||||||||12.70431|XUFLOANN.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UFLOANP|Student financial aid|Percent of undergraduate students awarded federal student loans|||||||||||||12.70436|XUFLOANP.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UFLOANT|Student financial aid|Total amount of federal student loans awarded to undergraduate students|||||||||||||12.70441|XUFLOANT.SFA1112_RV|Cont|TN|N||510|||||
+SFA1112_RV|UFLOANA|Student financial aid|Average amount of federal student loans awarded to undergraduate students|||||||||||||12.70446|XUFLOANA.SFA1112_RV|Cont|TN|N||510|||||
+IC2012_AY|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2012-13|||||||||||||12.11951|Xchg1ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2012-13|||||||||||||12.11966|Xchg2ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2012-13|||||||||||||12.11981|Xchg3ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2012-13|||||||||||||12.11996|Xchg4ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2012-13|||||||||||||12.12011|Xchg5ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2012-13|||||||||||||12.12026|Xchg6ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2012-13|||||||||||||12.12041|Xchg7ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2012-13|||||||||||||12.12056|Xchg8ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2012-13|||||||||||||12.12071|Xchg9ay3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|CMP1AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|In-district comprehensive fee 2012-13|||||||||||||12.15075|XCMP1AY3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|CMP2AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|In-state comprehensive fee 2012-13|||||||||||||12.15084|XCMP2AY3.IC2012_AY|Cont|TN|N||609|||||
+IC2012_AY|CMP3AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Out-of-state comprehensive fee 2012-13|||||||||||||12.15090|XCMP3AY3.IC2012_AY|Cont|TN|N||609|||||
+DRVIC2012_RV|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2012-13|||||||||||||12.11571|.|Cont|TN|N||609|||||
+DRVIC2012_RV|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2012-13|||||||||||||12.11576|.|Cont|TN|N||609|||||
+DRVIC2012_RV|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2012-13|||||||||||||12.11581|.|Cont|TN|N||609|||||
+DRVIC2012_RV|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2012-13|||||||||||||12.11586|.|Cont|TN|N||609|||||
+DRVIC2012_RV|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2012-13|||||||||||||12.11591|.|Cont|TN|N||609|||||
+DRVIC2012_RV|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2012-13|||||||||||||12.11596|.|Cont|TN|N||609|||||
+DRVIC2012_RV|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2012-13|||||||||||||12.11601|.|Cont|TN|N||609|||||
+DRVIC2012_RV|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2012-13|||||||||||||12.11606|.|Cont|TN|N||609|||||
+DRVIC2012_RV|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2012-13|||||||||||||12.11611|.|Cont|TN|N||609|||||
+EF2012B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||12.20441|XEFAGE09.EF2012B_RV|Cont|TN|N||140|20391|20396|||
+EF2012B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||12.20421|XEFAGE05.EF2012B_RV|Cont|TN|N||140|20391|20396|||
+EF2012B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||12.20426|XEFAGE06.EF2012B_RV|Cont|TN|N||140|20391|20396|||
+HD2011|FIPS|Institution classifications|FIPS state code|||||||||||||11.10026|.|Disc|DMN|N||112|||||
+HD2011|OPEFLAG|Institution classifications|OPE Title IV eligibility indicator code|||||||||||||11.10076|.|Disc|DMN|N||112|||||
+HD2011|ICLEVEL|Institution classifications|Level of institution|||||||||||||11.10091|.|Disc|DMN|N||112|||||
+HD2011|CONTROL|Institution classifications|Control of institution|||||||||||||11.10096|.|Disc|DMN|N||112|||||
+IC2011_AY_RV|chg1ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-district tuition and fees 2011-12|||||||||||||11.11951|Xchg1ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg2ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published in-state tuition and fees 2011-12|||||||||||||11.11966|Xchg2ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg3ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Published out-of-state tuition and fees 2011-12|||||||||||||11.11981|Xchg3ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg4ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Books and supplies 2011-12|||||||||||||11.11996|Xchg4ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg5ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, room and board 2011-12|||||||||||||11.12011|Xchg5ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg6ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|On campus, other expenses 2011-12|||||||||||||11.12026|Xchg6ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg7ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), room and board 2011-12|||||||||||||11.12041|Xchg7ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg8ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (not with family), other expenses 2011-12|||||||||||||11.12056|Xchg8ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|chg9ay3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Off campus (with family), other expenses 2011-12|||||||||||||11.12071|Xchg9ay3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|CMP1AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|In-district comprehensive fee 2011-12|||||||||||||11.15075|XCMP1AY3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|CMP2AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|In-state comprehensive fee 2011-12|||||||||||||11.15084|XCMP2AY3.IC2011_AY_RV|Cont|TN|N||609|||||
+IC2011_AY_RV|CMP3AY3|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Out-of-state comprehensive fee 2011-12|||||||||||||11.15090|XCMP3AY3.IC2011_AY_RV|Cont|TN|N||609|||||
+DRVIC2011_RV|CINDON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living on campus  2011-12|||||||||||||11.11571|.|Cont|TN|N||609|||||
+DRVIC2011_RV|CINSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living on campus 2011-12|||||||||||||11.11576|.|Cont|TN|N||609|||||
+DRVIC2011_RV|COTSON|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living on campus 2011-12|||||||||||||11.11581|.|Cont|TN|N||609|||||
+DRVIC2011_RV|CINDOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (not with family)  2011-12|||||||||||||11.11586|.|Cont|TN|N||609|||||
+DRVIC2011_RV|CINSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (not with family)  2011-12|||||||||||||11.11591|.|Cont|TN|N||609|||||
+DRVIC2011_RV|COTSOFF|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (not with family)  2011-12|||||||||||||11.11596|.|Cont|TN|N||609|||||
+DRVIC2011_RV|CINDFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-district students living off campus (with family)  2011-12|||||||||||||11.11601|.|Cont|TN|N||609|||||
+DRVIC2011_RV|CINSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for in-state students living off campus (with family)  2011-12|||||||||||||11.11606|.|Cont|TN|N||609|||||
+DRVIC2011_RV|COTSFAM|Price of attendance for full-time, first-time undergraduate students (academic year programs)|Total price for out-of-state students living off campus (with family)  2011-12|||||||||||||11.11611|.|Cont|TN|N||609|||||
+EF2011B_RV|EFAGE09|Age category, gender, attendance status, and level of student|Grand total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||11.20441|XEFAGE09.EF2011B_RV|Cont|TN|N||140|20391|20396|||
+EF2011B_RV|EFAGE05|Age category, gender, attendance status, and level of student|Full time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||11.20421|XEFAGE05.EF2011B_RV|Cont|TN|N||140|20391|20396|||
+EF2011B_RV|EFAGE06|Age category, gender, attendance status, and level of student|Part time total|EFBAGE_1|1|All age categories total|Age category|LSTUDY_1|2|Undergraduate|Level of student|||||11.20426|XEFAGE06.EF2011B_RV|Cont|TN|N||140|20391|20396|||
+HD2020|CITY|Directory information|City location of institution|||||||||||||20.10011|.|Alpha|N|A||110|||||
+HD2020|STABBR|Directory information|State abbreviation|||||||||||||20.10016|.|Disc|DMA|A||110|||||
+HD2020|ZIP|Directory information|ZIP code|||||||||||||20.10021|.|Alpha|TM|A||110|||||
+HD2020|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||20.10071|.|Cont|TM|A||110|||||
+HD2020|COUNTYCD|Directory information|Fips County code|||||||||||||20.16116|.|Disc|DMN|N||110|||||
+HD2020|COUNTYNM|Directory information|County name|||||||||||||20.16121|.|Alpha|TM|A||110|||||
+HD2020|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||20.16126|.|Disc|DMN|N||110|||||
+HD2020|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||20.16086|.|Disc|DMN|N||110|||||
+HD2020|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||20.16091|.|Disc|DMN|N||110|||||
+HD2020|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||20.16096|.|Disc|DMN|N||110|||||
+HD2020|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||20.16099|.|Disc|DMN|N||110|||||
+HD2020|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||20.10221|.|Disc|DMN|N||112|||||
+HD2020|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||20.10031|.|Disc|DMN|N||112|||||
+HD2020|HBCU|Institution classifications|Historically Black College or University|||||||||||||20.10151|.|Disc|D1N|N||112|||||
+HD2020|SECTOR|Institution classifications|Sector of institution|||||||||||||20.10086|.|Disc|DMN|N||112|||||
+HD2019|CITY|Directory information|City location of institution|||||||||||||19.10011|.|Alpha|N|A||110|||||
+HD2019|STABBR|Directory information|State abbreviation|||||||||||||19.10016|.|Disc|DMA|A||110|||||
+HD2019|ZIP|Directory information|ZIP code|||||||||||||19.10021|.|Alpha|TM|A||110|||||
+HD2019|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||19.10071|.|Cont|TM|A||110|||||
+HD2019|COUNTYCD|Directory information|Fips County code|||||||||||||19.16116|.|Disc|DMN|N||110|||||
+HD2019|COUNTYNM|Directory information|County name|||||||||||||19.16121|.|Alpha|TM|A||110|||||
+HD2019|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||19.16126|.|Disc|DMN|N||110|||||
+HD2019|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||19.16086|.|Disc|DMN|N||110|||||
+HD2019|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||19.16091|.|Disc|DMN|N||110|||||
+HD2019|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||19.16096|.|Disc|DMN|N||110|||||
+HD2019|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||19.16099|.|Disc|DMN|N||110|||||
+HD2019|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||19.10221|.|Disc|DMN|N||112|||||
+HD2019|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||19.10031|.|Disc|DMN|N||112|||||
+HD2019|HBCU|Institution classifications|Historically Black College or University|||||||||||||19.10151|.|Disc|D1N|N||112|||||
+HD2019|SECTOR|Institution classifications|Sector of institution|||||||||||||19.10086|.|Disc|DMN|N||112|||||
+HD2018|CITY|Directory information|City location of institution|||||||||||||18.10011|.|Alpha|N|A||110|||||
+HD2018|STABBR|Directory information|State abbreviation|||||||||||||18.10016|.|Disc|DMA|A||110|||||
+HD2018|ZIP|Directory information|ZIP code|||||||||||||18.10021|.|Alpha|TM|A||110|||||
+HD2018|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||18.10071|.|Cont|TM|A||110|||||
+HD2018|COUNTYCD|Directory information|Fips County code|||||||||||||18.16116|.|Disc|DMN|N||110|||||
+HD2018|COUNTYNM|Directory information|County name|||||||||||||18.16121|.|Alpha|TM|A||110|||||
+HD2018|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||18.16126|.|Disc|DMN|N||110|||||
+HD2018|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||18.16086|.|Disc|DMN|N||110|||||
+HD2018|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||18.16091|.|Disc|DMN|N||110|||||
+HD2018|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||18.16096|.|Disc|DMN|N||110|||||
+HD2018|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||18.16099|.|Disc|DMN|N||110|||||
+HD2018|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||18.10221|.|Disc|DMN|N||112|||||
+HD2018|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||18.10031|.|Disc|DMN|N||112|||||
+HD2018|HBCU|Institution classifications|Historically Black College or University|||||||||||||18.10151|.|Disc|D1N|N||112|||||
+HD2018|SECTOR|Institution classifications|Sector of institution|||||||||||||18.10086|.|Disc|DMN|N||112|||||
+HD2017|CITY|Directory information|City location of institution|||||||||||||17.10011|.|Alpha|N|A||110|||||
+HD2017|STABBR|Directory information|State abbreviation|||||||||||||17.10016|.|Disc|DMA|A||110|||||
+HD2017|ZIP|Directory information|ZIP code|||||||||||||17.10021|.|Alpha|TM|A||110|||||
+HD2017|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||17.10071|.|Cont|TM|A||110|||||
+HD2017|COUNTYCD|Directory information|Fips County code|||||||||||||17.16116|.|Disc|DMN|N||110|||||
+HD2017|COUNTYNM|Directory information|County name|||||||||||||17.16121|.|Alpha|TM|A||110|||||
+HD2017|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||17.16126|.|Disc|DMN|N||110|||||
+HD2017|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||17.16086|.|Disc|DMN|N||110|||||
+HD2017|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||17.16091|.|Disc|DMN|N||110|||||
+HD2017|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||17.16096|.|Disc|DMN|N||110|||||
+HD2017|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||17.16099|.|Disc|DMN|N||110|||||
+HD2017|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||17.10221|.|Disc|DMN|N||112|||||
+HD2017|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||17.10031|.|Disc|DMN|N||112|||||
+HD2017|HBCU|Institution classifications|Historically Black College or University|||||||||||||17.10151|.|Disc|D1N|N||112|||||
+HD2017|SECTOR|Institution classifications|Sector of institution|||||||||||||17.10086|.|Disc|DMN|N||112|||||
+HD2016|CITY|Directory information|City location of institution|||||||||||||16.10011|.|Alpha|N|A||110|||||
+HD2016|STABBR|Directory information|State abbreviation|||||||||||||16.10016|.|Disc|DMA|A||110|||||
+HD2016|ZIP|Directory information|ZIP code|||||||||||||16.10021|.|Alpha|TM|A||110|||||
+HD2016|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||16.10071|.|Cont|TM|A||110|||||
+HD2016|COUNTYCD|Directory information|Fips County code|||||||||||||16.16116|.|Disc|DMN|N||110|||||
+HD2016|COUNTYNM|Directory information|County name|||||||||||||16.16121|.|Alpha|TM|A||110|||||
+HD2016|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||16.16126|.|Disc|DMN|N||110|||||
+HD2016|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||16.16086|.|Disc|DMN|N||110|||||
+HD2016|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||16.16091|.|Disc|DMN|N||110|||||
+HD2016|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||16.16096|.|Disc|DMN|N||110|||||
+HD2016|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||16.16099|.|Disc|DMN|N||110|||||
+HD2016|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||16.10221|.|Disc|DMN|N||112|||||
+HD2016|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||16.10031|.|Disc|DMN|N||112|||||
+HD2016|HBCU|Institution classifications|Historically Black College or University|||||||||||||16.10151|.|Disc|D1N|N||112|||||
+HD2016|SECTOR|Institution classifications|Sector of institution|||||||||||||16.10086|.|Disc|DMN|N||112|||||
+HD2015|CITY|Directory information|City location of institution|||||||||||||15.10011|.|Alpha|N|A||110|||||
+HD2015|STABBR|Directory information|State abbreviation|||||||||||||15.10016|.|Disc|DMA|A||110|||||
+HD2015|ZIP|Directory information|ZIP code|||||||||||||15.10021|.|Alpha|TM|A||110|||||
+HD2015|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||15.10071|.|Cont|TM|A||110|||||
+HD2015|COUNTYCD|Directory information|Fips County code|||||||||||||15.16116|.|Disc|DMN|N||110|||||
+HD2015|COUNTYNM|Directory information|County name|||||||||||||15.16121|.|Alpha|TM|A||110|||||
+HD2015|CNGDSTCD|Directory information|State and 114TH Congressional District ID|||||||||||||15.16126|.|Disc|DMN|N||110|||||
+HD2015|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||15.16086|.|Disc|DMN|N||110|||||
+HD2015|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||15.16091|.|Disc|DMN|N||110|||||
+HD2015|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||15.16096|.|Disc|DMN|N||110|||||
+HD2015|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||15.16099|.|Disc|DMN|N||110|||||
+HD2015|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||15.10221|.|Disc|DMN|N||112|||||
+HD2015|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) regions|||||||||||||15.10031|.|Disc|DMN|N||112|||||
+HD2015|HBCU|Institution classifications|Historically Black College or University|||||||||||||15.10151|.|Disc|D1N|N||112|||||
+HD2015|SECTOR|Institution classifications|Sector of institution|||||||||||||15.10086|.|Disc|DMN|N||112|||||
+HD2014|CITY|Directory information|City location of institution|||||||||||||14.10011|.|Alpha|N|A||110|||||
+HD2014|STABBR|Directory information|State abbreviation|||||||||||||14.10016|.|Disc|DMA|A||110|||||
+HD2014|ZIP|Directory information|ZIP code|||||||||||||14.10021|.|Alpha|TM|A||110|||||
+HD2014|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||14.10071|.|Cont|TM|A||110|||||
+HD2014|COUNTYCD|Directory information|Fips County code|||||||||||||14.16116|.|Disc|DMN|N||110|||||
+HD2014|COUNTYNM|Directory information|County name|||||||||||||14.16121|.|Alpha|TM|A||110|||||
+HD2014|CNGDSTCD|Directory information|Congressional district code|||||||||||||14.16126|.|Disc|DMN|N||110|||||
+HD2014|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||14.16086|.|Disc|DMN|N||110|||||
+HD2014|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||14.16091|.|Disc|DMN|N||110|||||
+HD2014|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||14.16096|.|Disc|DMN|N||110|||||
+HD2014|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||14.16099|.|Disc|DMN|N||110|||||
+HD2014|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||14.10221|.|Disc|DMN|N||112|||||
+HD2014|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) Regions|||||||||||||14.10031|.|Disc|DMN|N||112|||||
+HD2014|HBCU|Institution classifications|Historically Black College or University|||||||||||||14.10151|.|Disc|D1N|N||112|||||
+HD2014|SECTOR|Institution classifications|Sector of institution|||||||||||||14.10086|.|Disc|DMN|N||112|||||
+HD2013|CITY|Directory information|City location of institution|||||||||||||13.10011|.|Alpha|N|A||110|||||
+HD2013|STABBR|Directory information|State abbreviation|||||||||||||13.10016|.|Disc|DMA|A||110|||||
+HD2013|ZIP|Directory information|ZIP code|||||||||||||13.10021|.|Alpha|TM|A||110|||||
+HD2013|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||13.10071|.|Cont|TM|A||110|||||
+HD2013|COUNTYCD|Directory information|Fips County code|||||||||||||13.16116|.|Disc|DMN|N||110|||||
+HD2013|COUNTYNM|Directory information|County name|||||||||||||13.16121|.|Alpha|TM|A||110|||||
+HD2013|CNGDSTCD|Directory information|Congressional district code|||||||||||||13.16126|.|Disc|DMN|N||110|||||
+HD2013|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||13.16086|.|Disc|DMN|N||110|||||
+HD2013|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||13.16091|.|Disc|DMN|N||110|||||
+HD2013|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||13.16096|.|Disc|DMN|N||110|||||
+HD2013|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||13.16099|.|Disc|DMN|N||110|||||
+HD2012|CITY|Directory information|City location of institution|||||||||||||12.10011|.|Alpha|N|A||110|||||
+HD2012|STABBR|Directory information|State abbreviation|||||||||||||12.10016|.|Disc|DMA|A||110|||||
+HD2012|ZIP|Directory information|ZIP code|||||||||||||12.10021|.|Alpha|TM|A||110|||||
+HD2012|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||12.10071|.|Cont|TM|A||110|||||
+HD2012|COUNTYCD|Directory information|Fips County code|||||||||||||12.16116|.|Disc|DMN|N||110|||||
+HD2012|COUNTYNM|Directory information|County name|||||||||||||12.16121|.|Alpha|TM|A||110|||||
+HD2012|CNGDSTCD|Directory information|Congressional district code|||||||||||||12.16126|.|Disc|DMN|N||110|||||
+HD2012|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||12.16086|.|Disc|DMN|N||110|||||
+HD2012|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||12.16091|.|Disc|DMN|N||110|||||
+HD2012|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||12.16096|.|Disc|DMN|N||110|||||
+HD2012|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||12.16099|.|Disc|DMN|N||110|||||
+HD2012|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||12.10221|.|Disc|DMN|N||112|||||
+HD2012|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) Regions|||||||||||||12.10031|.|Disc|DMN|N||112|||||
+HD2012|HBCU|Institution classifications|Historically Black College or University|||||||||||||12.10151|.|Disc|D1N|N||112|||||
+HD2012|SECTOR|Institution classifications|Sector of institution|||||||||||||12.10086|.|Disc|DMN|N||112|||||
+HD2011|CITY|Directory information|City location of institution|||||||||||||11.10011|.|Alpha|N|A||110|||||
+HD2011|STABBR|Directory information|State abbreviation|||||||||||||11.10016|.|Disc|DMA|A||110|||||
+HD2011|ZIP|Directory information|ZIP code|||||||||||||11.10021|.|Alpha|TM|A||110|||||
+HD2011|OPEID|Directory information|Office of Postsecondary Education (OPE) ID Number|||||||||||||11.10071|.|Cont|TM|A||110|||||
+HD2011|COUNTYCD|Directory information|Fips County code|||||||||||||11.16116|.|Disc|DMN|N||110|||||
+HD2011|COUNTYNM|Directory information|County name|||||||||||||11.16121|.|Alpha|TM|A||110|||||
+HD2011|CNGDSTCD|Directory information|Congressional district code|||||||||||||11.16126|.|Disc|DMN|N||110|||||
+HD2011|CBSA|Directory information|Core Based Statistical Area (CBSA)|||||||||||||11.16086|.|Disc|DMN|N||110|||||
+HD2011|CBSATYPE|Directory information|CBSA Type Metropolitan or Micropolitan|||||||||||||11.16091|.|Disc|DMN|N||110|||||
+HD2011|CSA|Directory information|Combined Statistical Area (CSA)|||||||||||||11.16096|.|Disc|DMN|N||110|||||
+HD2011|NECTA|Directory information|New England City and Town Area (NECTA)|||||||||||||11.16099|.|Disc|DMN|N||110|||||
+HD2011|PSET4FLG|Institution classifications|Postsecondary and Title IV institution indicator|||||||||||||11.10221|.|Disc|DMN|N||112|||||
+HD2011|OBEREG|Institution classifications|Bureau of Economic Analysis (BEA) Regions|||||||||||||11.10031|.|Disc|DMN|N||112|||||
+HD2011|HBCU|Institution classifications|Historically Black College or University|||||||||||||11.10151|.|Disc|D1N|N||112|||||
+HD2011|SECTOR|Institution classifications|Sector of institution|||||||||||||11.10086|.|Disc|DMN|N||112|||||

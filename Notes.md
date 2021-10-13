@@ -1,12 +1,3 @@
-IPEDS tracking
-Division I
-FBS (Power 5 conferences & Non-power 5 conferences) - Guest_665633954434
-
-FCS - Guest_14637735317
-
-Division II schools - Guest_1337734735
-
-
 Division 1 
   -Football Bowl Subdivision (FBS) - 135 schools
   -Football Championship Subdivision (FCS) - 126 schools
@@ -36,26 +27,6 @@ Data from IPEDS:
 Used Prais-Winsten technique to adjust standard errors for autocorrelation and panel heteroskedasticity
 Inflation adjusted all $ figures to latest year
 Variables were log transformed
-
-How I found data
-  1. Select Institutions - By Variables, "Member of National Collegiate Athletic Association (NCAA)" - Yes, Continue (to 'Step 2 - Select Variables')
-  2. Variables
-    a. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> FIPS state code
-    b. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Office of Postsecondary (OPE) ID Number
-    c. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Level of institution
-    d. Institutional Characteristics -> Institutional Characteristics -> Directory information, response status and frequently used variables -> Control of institution
-    e. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) ->  On campus, other expenses 20xx-20xx
-    f. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) ->  Off campus (not with family), other expenses 20xx-20xx
-    g. Institutional Characteristics -> Institutional Characteristics -> Price of attendance of full time, first-time undergraduate students (charges for full academic year) -> Off campus (with family), other expenses 20xx-20xx
-    h. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment, 25-64
-    i. Fall Enrollment -> Frequently used enrollment variables: Fall 2011 -> Frequently used enrollment variables -> Percentage of undergraduate enrollment over 65
-    k. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: Full-time, first-time, degree/certificate-seeking undergraduates -> Percent of full-time first-time undergraduates  awarded Pell grants
-    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> ######Percent of undergraduate students awarded Pell grants
-    l. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Financial Aid: All undergraduates -> #######Average amount of federl student loans awarded to undergraduate students
-    m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010 Fall cohort -> Percentage of students in fall cohort who are paying in-state tuition rates
-    m. Student Financial Aid and Net Price -> Financial aid for all undergraduates and full-time, first-time, degree/certificate-seeking undergraduate students, 2010-2011 -> Student Counts: Full-time, first-time degree/certificate-seeking undergraduates - 2010-2011 full year cohort -> Percentage of students in full-year cohort who are paying in-state tuition rates
-    
-Why isn't the data for fair market rents working on this website? https://www.huduser.gov/portal/datasets/fmr.html#2018
 
 Cohort default rates at https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
 
